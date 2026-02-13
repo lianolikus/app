@@ -1,0 +1,9 @@
+# ── Telethon version ──
+telethon>=1.34,<2.0
+
+# ── Pyrogram version ──
+pyrogram>=2.0,<3.0
+tgcrypto>=1.2            # optional but speeds up Pyrogram significantly
+
+# ── shared ──
+python-dotenv>=1.0
